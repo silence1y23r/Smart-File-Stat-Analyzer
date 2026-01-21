@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+文件夹统计报告_*.xlsx  # 忽略自动生成的报告文件，避免将个人数据上传
